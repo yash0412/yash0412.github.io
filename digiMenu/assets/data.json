@@ -1,0 +1,76 @@
+{
+  "restaurantName": "TISHA'S",
+  "slogan": "FINE FOOD SINCE 1988",
+  "price": "IND",
+  "menu": [
+    {
+      "category": "Appetizers",
+      "items": [
+        {
+          "name": "Arancini Rice Balls",
+          "description": "Jumbo lump crab cake finished with jumbo shrimp sauteed in our pepper cream sauce set on red mashed potatoes and wilted baby spinach finished with jumbo lump crab meat",
+          "price": "25.00",
+          "src": "/assets/items/ARANCINI RICE BALLS.jpg",
+          "type": "nv"
+        },
+        {
+          "name": "Cajun Fried Oysters",
+          "description": "xyz 2",
+          "price": "35.00",
+          "src": "/assets/items/CAJUN FRIED OYSTERS.jpg",
+          "type": "nv"
+        }
+      ]
+    },
+    {
+      "category": "Entrees",
+      "items": [
+        {
+          "name": "Cheesecake",
+          "description": "xyz 3",
+          "price": "45.00",
+          "src": "/assets/items/CHEESECAKE.jpg",
+          "type": "v"
+        }
+      ]
+    },
+    {
+      "category": "Appetizers 2",
+      "items": [
+        {
+          "name": "Arancini Rice Balls",
+          "description": "Jumbo lump crab cake finished with jumbo shrimp sauteed in our pepper cream sauce set on red mashed potatoes and wilted baby spinach finished with jumbo lump crab meat",
+          "price": "25.00",
+          "src": "/assets/items/ARANCINI RICE BALLS.jpg",
+          "type": "nv"
+        },
+        {
+          "name": "Cajun Fried Oysters",
+          "description": "xyz 2",
+          "price": "35.00",
+          "src": "/assets/items/CAJUN FRIED OYSTERS.jpg",
+          "type": "nv"
+        }
+      ]
+    },
+    {
+      "category": "Appetizers 3",
+      "items": [
+        {
+          "name": "Arancini Rice Balls",
+          "description": "Jumbo lump crab cake finished with jumbo shrimp sauteed in our pepper cream sauce set on red mashed potatoes and wilted baby spinach finished with jumbo lump crab meat",
+          "price": "25.00",
+          "src": "/assets/items/ARANCINI RICE BALLS.jpg",
+          "type": "nv"
+        },
+        {
+          "name": "Cajun Fried Oysters",
+          "description": "xyz 2",
+          "price": "35.00",
+          "src": "/assets/items/CAJUN FRIED OYSTERS.jpg",
+          "type": "nv"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "restaurantName": "EMIRATES CAFE",
+  "slogan": "CLASSY TASTE",
+  "price": "IND",
+  "menu": [
+    {
+      "category": "Pastas",
+      "items": [
+        {
+          "name": "Mushroom Alfredo",
+          "description": "Pasta with finely chopped mushroom and alfredo sauce with 2 pieces garlic bread",
+          "price": "450.00",
+          "src": "/assets/items/Mushroom Alfredo.jpg",
+          "type": "v"
+        },
+        {
+          "name": "Smoked Chicken",
+          "description": "Pasta with spicy smoked chicken with arabiata sauce and 2 pieces garlic bread",
+          "price": "450.00",
+          "src": "/assets/items/Smoked Chicken.jpeg",
+          "type": "nv"
+        },
+        {
+          "name": "Chunky Roast Mutton",
+          "description": "Pasta with grilled and roasted mutton  with choice of sauce and 2 pieces garlic bread",
+          "price": "480.00",
+          "src": "/assets/items/Chunky Roast Mutton.jpg",
+          "type": "nv"
+        }
+      ]
+    },
+    {
+      "category": "Nachos",
+      "items": [
+        {
+          "name": "Veg Nachos",
+          "description": "Loaded nachos with finely chopped vegetables and avocado, serves 2",
+          "price": "265.00",
+          "src": "/assets/items/Veg Nachos.png",
+          "type": "v"
+        },
+        {
+          "name": "Non Veg Nachos",
+          "description": "Loaded nachos with chicken, vegetables and avocado, serves 2",
+          "price": "265.00",
+          "src": "/assets/items/Non Veg Nachos.jpg",
+          "type": "nv"
+        }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "items": [
+        {
+          "name": "Veg Club",
+          "description": "Grilled sandwich with veg salad and cheese",
+          "price": "445.00",
+          "src": "/assets/items/Veg Club.jpeg",
+          "type": "v"
+        },
+        {
+          "name": "Mushroom 'n' Cheese",
+          "description": "Grilled sandwich with extra loaded cheese and freshly chopped mushrrom",
+          "price": "385.00",
+          "src": "/assets/items/Mushroom 'n' Cheese.jpg",
+          "type": "v"
+        },
+        {
+          "name": "Chicken Club",
+          "description": "Grilled sandwich with loaded spicy chicken and cheese",
+          "price": "465.00",
+          "src": "/assets/items/Chicken Club.jpg",
+          "type": "nv"
+        },
+        {
+          "name": "Mutton Grilled",
+          "description": "Grilled sandwich with grilled mutton keema and cheese",
+          "price": "460.00",
+          "src": "/assets/items/Mutton Grilled.jpeg",
+          "type": "nv"
+        }
+
+      ]
+    },
+    {
+      "category": "Dessert",
+      "items": [
+        {
+          "name": "Cheesecake",
+          "description": "New york style cheesecake with caramel sauce, fresh berries and fresh whipped cream",
+          "price": "265.00",
+          "src": "/assets/items/CHEESECAKE.jpg",
+          "type": "v"
+        },
+        {
+          "name": "Flourless Chocolate Cake",
+          "description": "Served with raspberry coulis, fresh berries and fresh whipped cream",
+          "price": "260.00",
+          "src": "/assets/items/FLOURLESS CHOCOLATE CAKE.jpg",
+          "type": "v"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Coffee flavored Marscarpone cream layered with lady fingers",
+          "price": "245.00",
+          "src": "/assets/items/TIRAMISU.jpg",
+          "type": "v"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "states":{
+        "INITIATED":"PLACED",
+        "CONFIRMED":"ACCEPTED",
+        "REJECTED":"REJECTED",
+        "PREPARED":"BEING PREPARED",
+        "DISPATCHED":"ON THE WAY",
+        "DELIVERED":"DELIVERED "
+    }
+}
